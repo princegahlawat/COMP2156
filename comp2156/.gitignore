@@ -1,4 +1,4 @@
-# Ignore system and personal files
+# Ignore system files and personal directories
 Application Data/
 Cookies/
 Local Settings/
@@ -16,35 +16,21 @@ Downloads/
 Music/
 Pictures/
 Videos/
-Cisco Packet Tracer*/
-VirtualBox VMs/
-node_modules/
-node.js/node_modules/
-
-# Ignore system and personal files
-Application Data/
-Cookies/
-Local Settings/
-My Documents/
-NetHood/
-PrintHood/
-Recent/
-SendTo/
-Start Menu/
-Templates/
-OneDrive/
-Desktop/
-Documents/
-Downloads/
-Music/
-Pictures/
-Videos/
+Saved Games/
+Searches/
 Cisco Packet Tracer*/
 VirtualBox VMs/
 .vscode/
 .ssh/
+AppData/
 node_modules/
+comp2156@1.0.0/
+11.1.0/
+react-scripts/
 *.log
 *.save
 *.dat
 *.ini
+*.sh
+*.pdf
+
