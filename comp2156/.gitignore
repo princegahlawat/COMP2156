@@ -16,3 +16,20 @@ Downloads/
 Pictures/
 Videos/
 node_modules/
+# Ignore system and personal files
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+OneDrive/
+Desktop/
+Documents/
+Downloads/
+Pictures/
+Videos/
