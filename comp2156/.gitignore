@@ -1,4 +1,23 @@
+# Ignore system and personal files
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+OneDrive/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+Cisco Packet Tracer*/
+VirtualBox VMs/
+node_modules/
+node.js/node_modules/
 
-# Ignore personal and system files
-../*
-!comp2156/
